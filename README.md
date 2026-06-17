@@ -111,16 +111,4 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 👨‍💻 Author
 
-**Jayaprakash S J**
-
-📧 Email: jayaprakashsj0007@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/jayaprakash-s-j-a87a25270
-
-💻 GitHub: github.com/jayaprakash880
-
----
-
-### ⭐ If you found this project useful, don't forget to Star the repository!
